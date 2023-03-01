@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
 <h3 align="center">Student in Software Engineer.Net @ Qlok - Campus Varberg</h3>
 
-- :books: I’m currently learning **HTMl - CSS - JavaScript - React**
+- :books: I’m currently learning **HTML- CSS - JavaScript - React**
 
 - 🤝I'm looking for a apprenticeship as a Software Engineer this Autumn. **Feel free to contact me!**
 
