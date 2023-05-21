@@ -3,8 +3,6 @@
 
 - :books: I’m currently learning **API - EntityFramework indepth**
 
-- 🤝I'm looking for a apprenticeship as a Software Engineer this Autumn. **Feel free to contact me!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvin-strandberg-612954253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin-strandberg-612954253" height="30" width="40" /></a>
