@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">Student in Software Engineer.Net @ Qlok - Campus Varberg</h3>
+<h3 align="center">Software Engineer</h3>
 
 - :books: I’m currently learning **API - EntityFramework indepth**
+
+- :books: Current project: <a href="https://github.com/troskan/BlogManagementAPI>BlogManagementAPI</a>"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
