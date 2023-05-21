@@ -3,7 +3,7 @@
 
 - :books: I’m currently learning **API - EntityFramework indepth**
 
-- :books: Current project: <a href="https://github.com/troskan/BlogManagementAPI>BlogManagementAPI</a>"**
+- :books: Current project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
