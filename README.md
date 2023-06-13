@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
 <h3 align="center">Software Engineer</h3>
 
-- :books: I’m currently learning **API - EntityFramework indepth**
+- :books: I’m currently learning **ASP.Net Web API / EntityFramework Code First in depth**
 
-- :books: Current project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a>
-
+- :point_right: Current project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Content Management System
+- :point_right: Current project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> Portfolio / CMS Front-End
+- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (CMS/Portfolio/Blog)
+<br/><br/><a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a><br/> :zap:Features: <br/>
+<li>:heavy_check_mark:Asp.Net Web API</li>
+<li>:heavy_check_mark:Login / Register with JWT token</li>
+<li>:heavy_check_mark:Azure Database / API Service</li>
+<li>:heavy_check_mark:Blog Posts</li>
+<li>:construction:Blog Post Interaction</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alvin-strandberg-612954253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin-strandberg-612954253" height="30" width="40" /></a>
