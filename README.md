@@ -2,9 +2,9 @@
 <h3 align="center">Software Develepor</h3>
 
 - :books: I’m currently learning **Asp.Net MVC / Minimal API**
-- Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a> Content Management System
-- Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Content Management System
-- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> CMS Front-End
+- Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
+- Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
+- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> CMS Front-End - React
 - :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (CMS/Blog)
 <br/><br/><a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a><br/> :zap:Features: <br/>
 <li>Asp.Net Web API</li>
