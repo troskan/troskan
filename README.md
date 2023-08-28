@@ -4,8 +4,8 @@
 - :books: I’m currently learning **Asp.Net MVC / Minimal API**
 - Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a> Content Management System
 - Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Content Management System
-- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> Portfolio / CMS Front-End
-- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (CMS/Portfolio/Blog)
+- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> CMS Front-End
+- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (CMS/Blog)
 <br/><br/><a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a><br/> :zap:Features: <br/>
 <li>Asp.Net Web API</li>
 <li>Login / Register with JWT token</li>
