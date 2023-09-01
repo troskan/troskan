@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Alvin</h1>
 <h3 align="center">Software Develepor</h3>
 
-- :books: I’m currently learning **Asp.Net MVC / Minimal API**
 - Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
 - Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
 - Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> CMS Front-End - React
