@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alvin</h1>
-<h3 align="center">Software Develepor</h3>
+<h3 align="center">Software Developer</h3>
 
 - Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
 - Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
