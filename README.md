@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Alvin</h1>
 <h3 align="center">Software Developer</h3>
 
-- Current project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
+- Recent project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
 - Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
-- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> CMS Front-End - React
-- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (CMS/Blog)
+- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> Blog Front-End - React
+- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (Blog)
 <br/><br/><a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a><br/> :zap:Features: <br/>
 <li>Asp.Net Web API</li>
 <li>Login / Register with JWT token</li>
