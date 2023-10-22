@@ -2,6 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - Current project [Private] **VacationRequester**  .Net 7 Web Api / React Vite Typescript
+- Current project [Private] **MentorApp**  .Net 8 Web Api / React Vite Typescript
 - Recent project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
 - Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
 - Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> Blog Front-End - React
