@@ -1,16 +1,17 @@
 <h1 align="center">Hi, I'm Alvin</h1>
 <h3 align="center">Software Developer</h3>
-
-- Current project [Private] **VacationRequester**  .Net 7 Web Api / React Vite Typescript
-- Current project [Private] **MentorApp**  .Net 8 Web Api / React Vite Typescript
-- Recent project <a href="https://github.com/troskan/BookLibraryApp">**BookLibraryApp**</a>  .Net 7 MVC
-- Recent project: <a href="https://github.com/troskan/BlogManagementAPI">**BlogManagementAPI**</a> Blog - .Net 6 WebAPI
-- Recent project: <a href="https://github.com/troskan/MyPortfolio">**MyPortfolio**</a> Blog Front-End - React
-- :house_with_garden: Website: <a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a> (Blog)
-<br/><br/><a href="https://www.alvin-strandberg.se/">**Alvin-Strandberg.se**</a><br/> :zap:Features: <br/>
-<li>Asp.Net Web API</li>
-<li>Login / Register with JWT token</li>
-<li>Azure Database / API Service</li>
+<h2>Current projects</h2>
+<li>[Private] <b>VacationRequester</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 7 Web Api / React Vite Typescript</li>
+<li>[Private] <b>MentorApp</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
+<li>[Private] <b>BlogManagementAPI_Remastered</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
+<br/>
+<h2>Recent projects</h2>
+<li><a href="https://github.com/troskan/BookLibraryApp"><b>BookLibraryApp</b></a>  .Net 7 MVC</li>
+<li><a href="https://github.com/troskan/BlogManagementAPI"><b>BlogManagementAPI</b></a> Blog - .Net 6 WebAPI</li> 
+<li><a href="https://github.com/troskan/MyPortfolio"><b>MyPortfolio</b></a> Blog Front-End - React</li><br/>
+:house_with_garden: Website: <a href="https://www.alvin-strandberg.se/"><b>Alvin-Strandberg.se</b></a> (Blog)
+<br/><br/> :zap:About my blog: <br/>
+<p>This is essentially my first programming baby which I deployed in the spring of 2023.<br> In this stage I was just introduced to web development HTML/CSS/React.<br>I am however very proud of this project even though it is not perfect it does deliver it's bare minimum job.<br><br>Plan is to release a complete overhaul of the blog in .Net 8 as a remaster.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
