@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Alvin</h1>
+<h1 align="center">Hi, I'm Alvin :sun_with_face:</h1>
 <h3 align="center">Software Developer</h3>
 <h2>Current projects</h2>
-<li>[Private][Group Project] <b>VacationRequester</b> &nbsp;&nbsp;|&nbsp;&nbsp; Azure - .Net 7 Web Api / React Vite Typescript</li>
-<li>[Private] <b>MentorApp</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
-<li>[Private] <b>BlogManagementAPI_Remastered</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
+<li>:lock:<b>VacationRequester</b> &nbsp;&nbsp;|&nbsp;&nbsp; Azure - .Net 7 Web Api / React Vite Typescript</li>
+<li>:lock:<b>MentorApp</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
+<li>:lock:<b>BlogManagementAPI_Remastered</b> &nbsp;&nbsp;|&nbsp;&nbsp; .Net 8 Web Api / React Vite Typescript</li>
 <br/>
 <h2>Recent projects</h2>
 <li><a href="https://github.com/troskan/BookLibraryApp"><b>BookLibraryApp</b></a>  .Net 7 MVC</li>
